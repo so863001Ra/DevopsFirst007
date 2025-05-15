@@ -1,0 +1,11 @@
+pwd->present work directory
+cd->current directory
+ls->list
+ls -al->all
+PressEscape buttton with :wq
+git status
+git commit -m "First Commit"
+git log
+git config --global user.name sourabhrajput720@gmail.com
+git config --global user.email sourabhrajput72@gmail.com
+
